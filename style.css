@@ -73,6 +73,7 @@ html {
   font-size: 36px;
   font-weight: bold;
   color: #333;
+  padding-bottom: 0px;
 }
 
 .hero-section .subheading {
@@ -104,6 +105,7 @@ html {
 .heading {
   font-size: 50px;
   font-weight: bold;
+  padding-bottom: 20px;
 }
 
 .about-me {
@@ -144,6 +146,10 @@ html {
   margin-right: 30px;
 }
 
+.skills .heading {
+  padding-bottom: 20px;
+}
+
 .skills-info {
   text-align: center;
   font-size: 17px;
@@ -166,4 +172,10 @@ html {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   height: 230px;
   padding: 20px 10px;
+}
+
+.projects {
+  margin-top: 70px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
