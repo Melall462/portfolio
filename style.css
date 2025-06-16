@@ -63,7 +63,7 @@ html {
   display: flex;
 }
 
-.logo {
+.logo, .nav-link {
   padding: 0 20px;
 }
 
